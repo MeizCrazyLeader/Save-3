@@ -27,7 +27,7 @@
             "description": "Pyrogram string session.",
             "value": ""
         },
-        "AUTH": {
+        "SUDO_USERS": {
             "description": "User ID of Bot owner.",
             "value": ""
         },
